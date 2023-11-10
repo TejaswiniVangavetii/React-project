@@ -18,12 +18,16 @@
 .res-card{
     width: 200px;
     border: 1px solid;
-    padding:10px;
-    margin: 27px;   
+    padding: 7px;
+    margin: 30px;   
+}
+.res-card :hover {
+    cursor: pointer;
+    border: 1px solid;
 }
 .res-card-logo{
     height: 150px;
-    width: 190px;
+    width: 200px;
 }
 .res-container{
     display: flex;
