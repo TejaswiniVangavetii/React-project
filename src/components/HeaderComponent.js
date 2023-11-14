@@ -1,8 +1,10 @@
+import {RESTAURANT_LOGO} from "../../utils/constants";
+
 const HeaderComponent = () => {
     return(
         <div className="HeaderContainer">
             <div className="res-log">
-                <img className="res-log-img" src="https://cdn.worldvectorlogo.com/logos/swiggy-1.svg"></img>
+                <img className="res-log-img" src={RESTAURANT_LOGO}></img>
             </div>
             <div className="nav-items">
                 <ul className="nav-items-list">

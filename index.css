@@ -34,3 +34,9 @@
     flex-wrap: wrap;
 
 }
+
+.search{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
