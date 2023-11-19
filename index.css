@@ -35,8 +35,13 @@
 
 }
 
-.search{
+.searchComp{
     display: flex;
     justify-content: center;
     margin-top: 15px;
+    gap:10px;
+}
+
+.btnLogin{
+
 }

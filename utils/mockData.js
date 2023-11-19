@@ -1,6 +1,6 @@
 const resCardList = [
     {
-      "data": {
+      "info": {
         "id": "462004",
         "name": "Haveli Family Restaurant",
         "cloudinaryImageId": "nop28foyi0hnc1oqpdvw",
@@ -97,7 +97,7 @@ const resCardList = [
       }
     },
     {
-      "data": {
+      "info": {
         "id": "129608",
         "name": "Kaveri Restaurant since 1983",
         "cloudinaryImageId": "owiigr6oy3qdqlbqxoy3",
@@ -192,7 +192,7 @@ const resCardList = [
       }
     },
     {
-      "data": {
+      "info": {
         "id": "336805",
         "name": "Udupi Ahaar",
         "cloudinaryImageId": "k8atj5j2ads6erp2z7iw",
@@ -309,7 +309,7 @@ const resCardList = [
       }
     },
     {
-      "data": {
+      "info": {
         "id": "345478",
         "name": "Hotel vaibhav inn",
         "cloudinaryImageId": "akxdtluiy2yfgzqewhw7",
@@ -407,7 +407,7 @@ const resCardList = [
       }
     },
     {
-      "data": {
+      "info": {
         "id": "522846",
         "name": "Haveli Westside",
         "cloudinaryImageId": "q1ryj3bkk0vzwexvgpsl",
@@ -507,7 +507,7 @@ const resCardList = [
       }
     },
     {
-      "data": {
+      "info": {
         "id": "177788",
         "name": "Sri Sri Sri Hotel",
         "cloudinaryImageId": "kt8ircg6spo1dxawunfq",
@@ -604,7 +604,7 @@ const resCardList = [
       }
     },
     {
-      "data": {
+      "info": {
         "id": "303601",
         "name": "Palamuru Grill",
         "cloudinaryImageId": "sm6evs1pnmirktipcj8k",
@@ -699,7 +699,7 @@ const resCardList = [
       }
     },
     {
-      "data": {
+      "info": {
         "id": "436080",
         "name": "Kritunga",
         "cloudinaryImageId": "cahewztmmiyu8xr1ekyt",
@@ -797,7 +797,7 @@ const resCardList = [
       }
     },
     {
-      "data": {
+      "info": {
         "id": "508891",
         "name": "Grameen Kulfi",
         "cloudinaryImageId": "xv08wtlqttykdlgvv3re",
@@ -892,7 +892,7 @@ const resCardList = [
       }
     },
     {
-      "data": {
+      "info": {
         "id": "464582",
         "name": "Baskin Robbins - Ice Cream Desserts",
         "cloudinaryImageId": "85ccae4e3576f9330af102c46ca85395",
@@ -988,7 +988,7 @@ const resCardList = [
       }
     },
     {
-      "data": {
+      "info": {
         "id": "508890",
         "name": "NIC Ice Creams",
         "cloudinaryImageId": "c8b98c4064dc2fd6bdf350212e5f0bd5",
@@ -1083,7 +1083,7 @@ const resCardList = [
       }
     },
     {
-      "data": {
+      "info": {
         "id": "416737",
         "name": "Kwality Walls Frozen Dessert and Ice Cream Shop",
         "cloudinaryImageId": "kwsqoyiyjqtbqbnnsjlj",
@@ -1180,7 +1180,7 @@ const resCardList = [
       }
     },
     {
-      "data": {
+      "info": {
         "id": "130909",
         "name": "Ibaco",
         "cloudinaryImageId": "kyllhajjzwkzagnskpx6",
@@ -1273,7 +1273,7 @@ const resCardList = [
       }
     },
     {
-      "data": {
+      "info": {
         "id": "266392",
         "name": "The Thick Shake Factory",
         "cloudinaryImageId": "vuv0vvek1jl99bvjveq0",
@@ -1368,7 +1368,7 @@ const resCardList = [
       }
     },
     {
-      "data": {
+      "info": {
         "id": "384925",
         "name": "Cakes Granios",
         "cloudinaryImageId": "n3kkjfwfhaeeemxqh1hz",
@@ -1465,7 +1465,7 @@ const resCardList = [
       }
     },
     {
-      "data": {
+      "info": {
         "id": "129461",
         "name": "Taj Bakery",
         "cloudinaryImageId": "trju6nczoqzgq6sk2p19",
@@ -1561,7 +1561,7 @@ const resCardList = [
       }
     },
     {
-      "data": {
+      "info": {
         "id": "436739",
         "name": "Tharani Family Restaurant",
         "cloudinaryImageId": "ejbov3cdqzmbo7cfyqfn",
@@ -1656,7 +1656,7 @@ const resCardList = [
       }
     },
     {
-      "data": {
+      "info": {
         "id": "129610",
         "name": "Brewberrys Coffee ",
         "cloudinaryImageId": "uroasyritmrmtetcn0ki",
@@ -1750,7 +1750,7 @@ const resCardList = [
       }
     },
     {
-      "data": {
+      "info": {
         "id": "128985",
         "name": "Sitara Family Restaurant",
         "cloudinaryImageId": "jxtd5vlpyry8hrigvjj4",
@@ -1844,7 +1844,7 @@ const resCardList = [
       }
     },
     {
-      "data": {
+      "info": {
         "id": "130910",
         "name": "Taj Darbar",
         "cloudinaryImageId": "mriadd3fcsnbafsbvqum",

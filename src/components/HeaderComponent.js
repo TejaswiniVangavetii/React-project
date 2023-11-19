@@ -1,6 +1,11 @@
+import React from "react";
+import { useState } from "react";
 import {RESTAURANT_LOGO} from "../../utils/constants";
 
 const HeaderComponent = () => {
+    const [ loginBtn, setloginBtn] = useState("Login");
+    // let loginBtn = "logout";
+
     return(
         <div className="HeaderContainer">
             <div className="res-log">
@@ -12,6 +17,7 @@ const HeaderComponent = () => {
                     <li>About Us</li>
                     <li>Contact Us</li>
                     <li>Cart</li>
+                    <button className="btnLogin" onClick={ () => { loginBtn == "Login" ? setloginBtn("Logout") : setloginBtn("Login")}}>{loginBtn}</button>
                 </ul>
             </div>
         </div>
