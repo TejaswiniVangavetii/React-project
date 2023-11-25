@@ -5,8 +5,7 @@ import RestaurantCards from "./RestaurantCards";
  
 const BodyComponent = () => {
     let [searchFilter, setSearchFilter] = useState("")
-
-
+    let [filteredData, setFilteredData] = useState(mockData);
     let [listOfRestaurants, setlistOfRestaurants] = useState(mockData); //state variable
     // Use Effect
     //  useEffect(
@@ -41,21 +40,16 @@ const BodyComponent = () => {
                     setSearchFilter(e.target.value)
                     console.log(e.target.value)
                 }}></input>
-                {/* <button onClick={() => {
-                    let filteredRest = listOfRestaurants.filter((res) => {res?.info?.name?.toLowerCase().includes(searchFilter.toLowerCase());
-                    });
-                    setlistOfRestaurants(filteredRest);
-                }}>search</button> */}
                 <button onClick={() => {
-                    let filteredRest = listOfRestaurants.filter((res) =>
-                        res?.info?.name?.toLowerCase().includes(searchFilter.toLowerCase())
-                    );
-                    setlistOfRestaurants(filteredRest);
+                    let filteredRes = listOfRestaurants.filter((res) => {
+                        return res?.info?.name?.toLowerCase().includes(searchFilter.toLowerCase());
+                    });
+                   setFilteredData(filteredRes);
                 }}>search</button>
                 <button className="ratingRestaurants" onClick={() => { topRatingRestaurants() }}>Top Rating Restaurants</button>
             </div>
             <div className="res-container">
-                {listOfRestaurants.map((restaurant, index) => {
+                {filteredData.map((restaurant, index) => {
                     return (
                         <RestaurantCards key={index} resCardList={restaurant} />
 

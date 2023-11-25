@@ -20,11 +20,15 @@
     border: 1px solid;
     padding: 7px;
     margin: 30px;   
+   
+}
+.link {
+    color: inherit; 
+    text-decoration: none; 
 }
 .res-card :hover {
     cursor: pointer;
-    border: 1px solid;
-}
+   }
 .res-card-logo{
     height: 150px;
     width: 200px;

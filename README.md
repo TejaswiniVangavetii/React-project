@@ -13,3 +13,8 @@ we have Virtual DOM
 Normal JS Utility function
 -UseState() - whenever a state variable changes/updates react will rerender the component
 -UseEffect()
+
+
+# 2 types of Routings in Web app
+1. Client Side Routing
+2. Server Side Routing 

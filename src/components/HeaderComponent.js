@@ -1,5 +1,6 @@
 import React from "react";
 import { useState } from "react";
+import { Link } from "react-router-dom";
 import {RESTAURANT_LOGO} from "../../utils/constants";
 
 const HeaderComponent = () => {
@@ -13,11 +14,18 @@ const HeaderComponent = () => {
             </div>
             <div className="nav-items">
                 <ul className="nav-items-list">
-                    <li>Home</li>
-                    <li>About Us</li>
-                    <li>Contact Us</li>
+                    <li>
+                        <Link className="link" to= "/">Home</Link>
+                    </li>
+                    <li>
+                        <Link className="link" to="/about">About Us</Link>
+                    </li>
+                    <li>
+                        <Link className="link" to= "/contact">Contact Us</Link>
+                    </li>
                     <li>Cart</li>
-                    <button className="btnLogin" onClick={ () => { loginBtn == "Login" ? setloginBtn("Logout") : setloginBtn("Login")}}>{loginBtn}</button>
+                    <button className="btnLogin" onClick={ () => { 
+                        return loginBtn == "Login" ? setloginBtn("Logout") : setloginBtn("Login") } }>{loginBtn}</button>
                 </ul>
             </div>
         </div>
