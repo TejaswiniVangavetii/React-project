@@ -18,6 +18,8 @@ Normal JS Utility function
 # 2 types of Routings in Web app
 1. Client Side Routing
 2. Server Side Routing 
-https://app.requestly.io/emailAction?apiKey=AIzaSyC2WOxTtgKH554wCezEJ4plxnMNXaUSFXY&mode=signIn&oobCode=HD0S99CBgyGIZyHm-0qysIpTICEXERvTI7q83U0I4dgAAAGNOUXdKQ&continueUrl=https://app.requestly.io/home&lang=en
+
+
+https://app.requestly.io/emailAction?apiKey=AIzaSyC2WOxTtgKH554wCezEJ4plxnMNXaUSFXY&mode=signIn&oobCode=EvqEocqdMzBwrPlOpA1_vaID8cx8uc4sAZYLVhHT8cMAAAGNOVUImQ&continueUrl=https://app.requestly.io/home&lang=en
 
 
