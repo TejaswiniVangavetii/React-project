@@ -23,3 +23,4 @@ Normal JS Utility function
 https://app.requestly.io/emailAction?apiKey=AIzaSyC2WOxTtgKH554wCezEJ4plxnMNXaUSFXY&mode=signIn&oobCode=EvqEocqdMzBwrPlOpA1_vaID8cx8uc4sAZYLVhHT8cMAAAGNOVUImQ&continueUrl=https://app.requestly.io/home&lang=en
 
 
+https://app.requestly.io/emailLinkSignIn?apiKey=AIzaSyC2WOxTtgKH554wCezEJ4plxnMNXaUSFXY&mode=signIn&oobCode=EvqEocqdMzBwrPlOpA1_vaID8cx8uc4sAZYLVhHT8cMAAAGNOVUImQ&continueUrl=https://app.requestly.io/home&lang=en
