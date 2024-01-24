@@ -19,6 +19,7 @@ Normal JS Utility function
 1. Client Side Routing
 2. Server Side Routing 
 
-https://app.requestly.io/emailAction?apiKey=AIzaSyC2WOxTtgKH554wCezEJ4plxnMNXaUSFXY&mode=signIn&oobCode=8sgwURv04uU6_WMHVzdP9dw6fx7P98iDpTvlnvXpnmwAAAGNOWAQAg&continueUrl=https://app.requestly.io/home&lang=en
 
-sajan.artin@falkcia.com
+avyay.adrean@falkcia.com
+
+https://app.requestly.io/emailAction?apiKey=AIzaSyC2WOxTtgKH554wCezEJ4plxnMNXaUSFXY&mode=signIn&oobCode=hhHfRk1XheZLSMW7QlXL9SNhPafvJGgq9tWeeK6Ux5kAAAGNOXyB7g&continueUrl=https://app.requestly.io/home&lang=en
