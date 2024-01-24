@@ -20,6 +20,4 @@ Normal JS Utility function
 2. Server Side Routing 
 
 
-avyay.adrean@falkcia.com
 
-https://app.requestly.io/emailAction?apiKey=AIzaSyC2WOxTtgKH554wCezEJ4plxnMNXaUSFXY&mode=signIn&oobCode=hhHfRk1XheZLSMW7QlXL9SNhPafvJGgq9tWeeK6Ux5kAAAGNOXyB7g&continueUrl=https://app.requestly.io/home&lang=en
