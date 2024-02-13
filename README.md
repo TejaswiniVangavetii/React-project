@@ -19,9 +19,36 @@ Normal JS Utility function
 1. Client Side Routing
 2. Server Side Routing 
 
-
-https://app.requestly.io/emailAction?apiKey=AIzaSyC2WOxTtgKH554wCezEJ4plxnMNXaUSFXY&mode=signIn&oobCode=l7RFJve5lZX9eH_WMYTl_cMP32pc7OdU4mV8VYE9i5IAAAGNQery3g&continueUrl=https://app.requestly.io/home&lang=en
-
-
-
-tisav30195@ikuromi.com
+export const ErrorAlert = (errortitle, errormsg, errorType) => {
+    if (errorType === 'Error') {
+      return (
+          <>
+            {errormsg !== null && (
+              <div
+                className="alert alert-danger"
+                style={{ backgroundColor: '#ed7000', color: 'white' }}
+                role="alert"
+              >
+              <h3>{errortitle}</h3>
+              {errormsg}
+              </div>
+            )}
+          </>
+      );
+    } else {
+      return (
+        <>
+          {errormsg !== null && (
+            <div
+              className="alert alert-danger"
+              style={{ backgroundColor: '#61dafb', color: 'white' }}
+              role="alert"
+            >
+            <h3>{errortitle}</h3>
+            {errormsg}
+            </div>
+          )}
+        </>
+      );
+    }
+}
