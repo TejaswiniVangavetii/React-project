@@ -20,8 +20,8 @@ Normal JS Utility function
 2. Server Side Routing 
 
 
-https://app.requestly.io/emailAction?apiKey=AIzaSyC2WOxTtgKH554wCezEJ4plxnMNXaUSFXY&mode=signIn&oobCode=lZwvMqvTZjczCgntArDx-rhlm4ugLB4Pv6kt7arSnHgAAAGN1vJYkA&continueUrl=https://app.requestly.io/home&lang=en
 
+https://app.requestly.io/emailAction?apiKey=AIzaSyC2WOxTtgKH554wCezEJ4plxnMNXaUSFXY&mode=signIn&oobCode=9f_5c1_5LaQUtkkGYvd7ErT-qyQFIAg5xY8YPC_DlJsAAAGN1vdVXQ&continueUrl=https://app.requestly.io/home&lang=en
 
 cixerek726@molyg.com
 
