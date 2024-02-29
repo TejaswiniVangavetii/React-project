@@ -21,7 +21,9 @@ Normal JS Utility function
 
 
 
-https://app.requestly.io/emailAction?apiKey=AIzaSyC2WOxTtgKH554wCezEJ4plxnMNXaUSFXY&mode=signIn&oobCode=9f_5c1_5LaQUtkkGYvd7ErT-qyQFIAg5xY8YPC_DlJsAAAGN1vdVXQ&continueUrl=https://app.requestly.io/home&lang=en
+https://app.requestly.io/emailAction?apiKey=AIzaSyC2WOxTtgKH554wCezEJ4plxnMNXaUSFXY&mode=signIn&oobCode=F3nShO4Qtfq_1-2HCTMEVE0u5lcJJ71xXL-F-ZjxS14AAAGN9d4fIA&continueUrl=https://app.requestly.io/home&lang=en
 
-cixerek726@molyg.com
+
+
+jodid27585@fashlend.com
 
