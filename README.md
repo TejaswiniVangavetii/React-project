@@ -25,3 +25,15 @@ https://app.requestly.io/emailAction?apiKey=AIzaSyC2WOxTtgKH554wCezEJ4plxnMNXaUS
 
 gogac82496@ekposta.com
 
+
+
+<span v-if="option.data=='yubikeydesc'"
+                class="glyphicon glyphicon-info-sign"
+                style="margin-right: 1em; font-size:17"
+                id="yubikeyInfo"
+                placeholder=""
+                data-container="body" 
+                data-toggle="popover" 
+                data-placement="right"
+                data-content="Yubikey is a usb, hardware-based security device that inserts into the computer.">
+              </span>
