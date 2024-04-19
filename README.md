@@ -27,13 +27,11 @@ gogac82496@ekposta.com
 
 
 
-<span v-if="option.data=='yubikeydesc'"
+<label style="display: inline;">Please insert your Yubikey into usb drive and place your finger on Yubikey touchpad to auto populate the One Time Passcode.
+              <!--<a href="#" @click="openModal">Click here for more information</a>-->
+              <a href="#" @click="openModal"><span 
                 class="glyphicon glyphicon-info-sign"
+                aria-label="More Info"
                 style="margin-right: 1em; font-size:17"
-                id="yubikeyInfo"
-                placeholder=""
-                data-container="body" 
-                data-toggle="popover" 
-                data-placement="right"
-                data-content="Yubikey is a usb, hardware-based security device that inserts into the computer.">
-              </span>
+                id="yubikeyInfo"></span></a>
+              </label>
