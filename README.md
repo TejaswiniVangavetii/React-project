@@ -26,12 +26,4 @@ https://app.requestly.io/emailAction?apiKey=AIzaSyC2WOxTtgKH554wCezEJ4plxnMNXaUS
 gogac82496@ekposta.com
 
 
-
-<label style="display: inline;">Please insert your Yubikey into usb drive and place your finger on Yubikey touchpad to auto populate the One Time Passcode.
-              <!--<a href="#" @click="openModal">Click here for more information</a>-->
-              <a href="#" @click="openModal"><span 
-                class="glyphicon glyphicon-info-sign"
-                aria-label="More Info"
-                style="margin-right: 1em; font-size:17"
-                id="yubikeyInfo"></span></a>
-              </label>
+https://gist.github.com/TejaswiniVangavetii/ba8c47641e7b9062695f37c41c196468
