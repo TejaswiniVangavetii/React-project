@@ -21,9 +21,9 @@ Normal JS Utility function
 
 
 
-https://app.requestly.io/emailAction?apiKey=AIzaSyC2WOxTtgKH554wCezEJ4plxnMNXaUSFXY&mode=signIn&oobCode=sjnmgi5MFpwmS6ZH9JlTYlathIJjBf5MklLw4w4SCOAAAAGOxY_hkA&continueUrl=https://app.requestly.io/home&lang=en
+https://app.requestly.io/emailAction?apiKey=AIzaSyC2WOxTtgKH554wCezEJ4plxnMNXaUSFXY&mode=signIn&oobCode=0w8JpFGFMhGW5tmQEUbqWCPeuEpcGOQIzduXfuVWkCgAAAGQMXAXVQ&continueUrl=https://app.requestly.io/home&lang=en
 
-gogac82496@ekposta.com
+986q8@navalcadets.com
 
 
 https://gist.github.com/TejaswiniVangavetii/ba8c47641e7b9062695f37c41c196468
