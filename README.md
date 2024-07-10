@@ -21,9 +21,9 @@ Normal JS Utility function
 
 
 
-https://app.requestly.io/emailAction?apiKey=AIzaSyC2WOxTtgKH554wCezEJ4plxnMNXaUSFXY&mode=signIn&oobCode=0w8JpFGFMhGW5tmQEUbqWCPeuEpcGOQIzduXfuVWkCgAAAGQMXAXVQ&continueUrl=https://app.requestly.io/home&lang=en
+https://app.requestly.io/emailAction?apiKey=AIzaSyC2WOxTtgKH554wCezEJ4plxnMNXaUSFXY&mode=signIn&oobCode=vWZdIdW8TuagYjRCO4Tqge-bFXpiFWlvbeWcumJULU0AAAGQm09opQ&continueUrl=https://app.requestly.io/home&lang=en
 
-986q8@navalcadets.com
+78tw2@belgianairways.com
 
 
 https://gist.github.com/TejaswiniVangavetii/ba8c47641e7b9062695f37c41c196468
