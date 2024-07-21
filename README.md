@@ -21,9 +21,10 @@ Normal JS Utility function
 
 
 
-https://app.requestly.io/emailAction?apiKey=AIzaSyC2WOxTtgKH554wCezEJ4plxnMNXaUSFXY&mode=signIn&oobCode=vWZdIdW8TuagYjRCO4Tqge-bFXpiFWlvbeWcumJULU0AAAGQm09opQ&continueUrl=https://app.requestly.io/home&lang=en
+https://app.requestly.io/emailAction?apiKey=AIzaSyC2WOxTtgKH554wCezEJ4plxnMNXaUSFXY&mode=signIn&oobCode=9F4H7luHVEsEmMZdtEyLj0zY2PcCBXUAhUB60H6SXDkAAAGQ1yf17w&continueUrl=https://app.requestly.io/home&lang=en
 
-78tw2@belgianairways.com
+
+nrbed@belgianairways.com
 
 
 https://gist.github.com/TejaswiniVangavetii/ba8c47641e7b9062695f37c41c196468
