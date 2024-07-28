@@ -26,5 +26,4 @@ https://app.requestly.io/emailAction?apiKey=AIzaSyC2WOxTtgKH554wCezEJ4plxnMNXaUS
 
 nrbed@belgianairways.com
 
-
-https://gist.github.com/TejaswiniVangavetii/ba8c47641e7b9062695f37c41c196468
+https://gist.github.com/TejaswiniVangavetii/2edd54ccc34b8a5c5ad4999eb7f58c07
